@@ -11,7 +11,7 @@ This project is a simple ESP8266-based control system that enables toggling and 
 ## Requirements
 - ESP8266 microcontroller (e.g., NodeMCU)
 - [ArduinoJson Library](https://github.com/bblanchon/ArduinoJson) - Used for JSON formatting.
-- A connected button or relay to simulate PC power button actions.
+- A connected transistor or relay to simulate PC power button actions.
 
 ## Setup
 
